@@ -24,7 +24,7 @@
 - 🚀 Full-Stack Developer with expertise in Python, JavaScript, and Dart.
 - 🔐 Cybersecurity enthusiast, learning and exploring new tools and techniques.
 - 💻 Contributing to open-source projects and building personal projects in my free time.
-- 📧 Reach me: [![Telegram Badge](https://img.shields.io/badge/-cyber_programer-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/root_lovs)
+- 📧 Reach me: [![Telegram Badge](https://img.shields.io/badge/-stackmatrixdev-blue?style=flat&logo=Telegram&logoColor=white)](https://telegram.me/root_lovs)
 
 ---
 
@@ -86,15 +86,6 @@
 
 ---
 
-## 🌟 Projects
-
-<!-- Add your projects here with a short description, tech stack, and a link to the repository or live demo. Use the following template: -->
-
-- **Project Title**
-  - *Short description*
-  - *Tech Stack*: (list relevant technologies used)
-  - *Live Demo*: [Link](https://example.com)
-  - *Repository*: [Link](https://github.com/halal-ashacker/project-title)
 
 <!-- Add more projects following the template above. -->
 
@@ -102,10 +93,10 @@
 
 ## 💬 Let's Connect
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💬 Telegram: [@cyber_programer](https://telegram.me/root_lovs)
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 💻 GitHub: [@halal-ashacker](https://github.com/halal-ashacker)
+- 📧 Email: [contact@mdsifatislam.dev](mailto:contact@mdsifatislam.dev)
+- 💬 Telegram: [@stackmatrixdev](https://telegram.me/root_lovs)
+- 🌐 LinkedIn: [linkedin.com/in/developermdsifatislam](https://linkedin.com/in/developermdsifatislam)
+- 💻 GitHub: [@stackmatrixdev](https://github.com/stackmatrixdev)
 
 ---
 
