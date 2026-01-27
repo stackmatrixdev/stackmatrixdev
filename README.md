@@ -79,9 +79,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=halal-ashacker&theme=merko&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=stackmatrixdev&theme=merko&hide_border=true&mode=weekly" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halal-ashacker&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackmatrixdev&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </div>
 
 ---
