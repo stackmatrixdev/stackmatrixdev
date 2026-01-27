@@ -79,7 +79,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=stackmatrixdev&theme=merko&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=stackmatrixdev&theme=dark" alt="GitHub Streak" /></a>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackmatrixdev&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </div>
