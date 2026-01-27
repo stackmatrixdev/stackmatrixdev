@@ -2,7 +2,7 @@
 <!-- <p align="center"> -->
 <!--   <img src="removebg.banner.png"> -->
 <!-- </p> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=halal-ashacker&label=Profile%20views&color=0e75b6&style=flat" alt="cyber-programer" width="200" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=halal-ashacker&label=Profile%20views&color=0e75b6&style=flat" alt="stackmatrixdev" width="200" /> </p>
 
 <h1 align="center">
   Hi 👋, I'm MD.SiFaT isLaM
@@ -78,6 +78,6 @@ I know various programming languages like :  <img src="https://media.giphy.com/m
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyber-programer&theme=merko&hide_border=true&mode=weekly)](https://cyber-programer.github.io/first_web)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stackmatrixdev&theme=merko&hide_border=true&mode=weekly)](https://stackmatrixdev.github.io/first_web)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-programer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stackmatrixdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
