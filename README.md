@@ -1,96 +1,101 @@
 
-<!-- <p align="center"> -->
-<!--   <img src="removebg.banner.png"> -->
-<!-- </p> -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=halal-ashacker&label=Profile%20views&color=0e75b6&style=flat" alt="halal-ashacker" width="200" />
+<div align="center">
+
+# 🚀 Hi there, I'm MD. SiFaT isLaM 
+### Full-Stack Developer | Cybersecurity Enthusiast | Open Source Contributor
+
+[![Views](https://komarev.com/ghpvc/?username=stackmatrixdev&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/stackmatrixdev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stackmatrixdev?style=social)](https://twitter.com/stackmatrixdev)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ6ajF1NXliNHJtcTNtYWw2Y2liamk0bXZjcm9rM3Z3Z2V3bmM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300">
+
+---
+
+</div>
+
+## 📖 About Me
+
+I am a dedicated **Full-Stack Developer** focused on building robust, scalable, and high-performance web applications. My expertise lies in crafting seamless end-to-end solutions while maintaining a deep interest in **Cybersecurity**. I love integrating security-first mindsets into my development process and am constantly exploring new ways to build more secure digital environments.
+
+- ⚡ **Learning:** Advanced Penetration Testing & Cloud Security (AWS/DigitalOcean).
+- 🤝 **Open to:** Collaborating on innovative Full-Stack projects or Security research.
+- 💬 **Ask me about:** JavaScript, Python, Dart, or how to secure your web apps.
+
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Development
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 </p>
 
-<h1 align="center">
-  👋 Hi, I'm MD.SiFaT isLaM
-</h1>
+### 🌐 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
-<h3 align="center">
-  💻 Full-Stack Developer | Cybersecurity Enthusiast | Building for a Better Tomorrow
-</h3>
+### 🛡️ Cybersecurity & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" />
+</p>
 
-<!-- Add a cool animation or GIF to make the profile more engaging -->
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ6ajF1NXliNHJtcTNtYWw2Y2liamk0bXZjcm9rM3Z3Z2V3bmM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" alt="animation" />
-</div>
-
-## 🌟 About Me
-
-- 🚀 Full-Stack Developer with expertise in Python, JavaScript, and Dart.
-- 🔐 Cybersecurity enthusiast, learning and exploring new tools and techniques.
-- 💻 Contributing to open-source projects and building personal projects in my free time.
-- 📧 Reach me: [![Telegram Badge](https://img.shields.io/badge/-stackmatrixdev-blue?style=flat&logo=telegram&logoColor=white)](https://telegram.me/root_lovs)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; padding: 2px;">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" alt="Python" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java" alt="Java" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart" alt="Dart" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-C-black?style=flat-square&logo=c" alt="C" width="100" height="30"/>
-
-  <!-- Frameworks & Libraries -->
-  <img src="https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring" alt="Spring" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=mui" alt="Material UI" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" alt="Flask" width="100" height="30"/>
-
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5" alt="HTML5" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3" alt="CSS3" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="Node.js" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express" alt="Express" width="100" height="30"/>
-
-  <!-- Databases & ORMs -->
-  <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" width="100" height="30"/>
-
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux" alt="Linux" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows" alt="Windows" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws" alt="AWS" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase" alt="Firebase" width="100" height="30"/>
-  <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma" alt="Figma" width="100" height="30"/>
-
-  <!-- Cybersecurity Tools -->
-  <img src="/img/armitage.jpeg" title='armitage' width="100" height="30"/>
-  <img src="/img/burp.jpeg" title='burp' width="100" height="30"/>
-  <img src="/img/wireshark.png" title='wireshark' width="100" height="30"/>
-  <img src="/img/johnny.png" title='johnny' width="100" height="30"/>
-  <img src="https://img.icons8.com/color/70/dart" title="Dart" width="100" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" title="Apache" width="100" height="30"/>
-  <img src="https://img.icons8.com/?size=100&id=LSOtRiURcRCx&format=png&color=00000" title="Tor" width="100" height="30"/>
-  <img src="https://img.icons8.com/?size=100&id=17847&format=png&color=00000" title="Red Hat" width="100" height="30"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png" title="Netlify" width="100" height="30"/>
-</div>
+### ☁️ Cloud & Databases
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=stackmatrixdev&theme=dark" alt="GitHub Streak" /></a>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackmatrixdev&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stackmatrixdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stackmatrixdev&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" height="180" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stackmatrixdev&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 💬 Let's Connect
+## 📊 Activity Graph
 
-- 📧 Email: [contact@mdsifatislam.dev](mailto:contact@mdsifatislam.dev)
-- 💬 Telegram: [@stackmatrixdev](https://telegram.me/root_lovs)
-- 🌐 LinkedIn: [linkedin.com/in/developermdsifatislam](https://linkedin.com/in/developermdsifatislam)
-- 💻 GitHub: [@stackmatrixdev](https://github.com/stackmatrixdev)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=stackmatrixdev&theme=dracula&hide_border=true&area=true" width="100%" />
+</div>
 
 ---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developermdsifatislam)
+[![Telegram](https://img.shields.io/badge/Telegram-26A8ED?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/root_lovs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mdsifatislam.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mdsifatislam.dev)
+
+</div>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
+  <b>Happy Coding! 🚀</b>
+</p>
+
