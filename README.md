@@ -5,7 +5,7 @@
 ### Full-Stack Developer | Cybersecurity Enthusiast | Open Source Contributor
 
 [![Views](https://komarev.com/ghpvc/?username=stackmatrixdev&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/stackmatrixdev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/stackmatrixdev?style=social)](https://twitter.com/stackmatrixdev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/stackmatrixdev?style=social)](https://twitter.com/root_lovs)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ6ajF1NXliNHJtcTNtYWw2Y2liamk0bXZjcm9rM3Z3Z2V3bmM3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300">
 
